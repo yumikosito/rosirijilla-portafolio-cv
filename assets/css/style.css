@@ -29,7 +29,7 @@ body {
 
 section {
   padding: 1rem 5%;
-  min-height: 100vh;
+  min-height: 50vh;
 }
 
 .heading {
@@ -282,6 +282,7 @@ header .follow a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
+  
 }
 
 .service .box-container .box {
